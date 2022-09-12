@@ -1,0 +1,36 @@
+body {
+    margin-top: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom right, blue, purple);
+    width: 102%;
+    margin-left: -8px;
+    height: 100px;
+}
+
+.card {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.manager {
+    height: 100px;
+    width: 102%;
+    margin-left: -2px;
+}
+
+.engineer {
+    height: 100px;
+    width: 102%;
+    margin-left: -2px;
+}
+
+.intern {
+    height: 100px;
+    width: 102%;
+    margin-left: -2px;
+}
