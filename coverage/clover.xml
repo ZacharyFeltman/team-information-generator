@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1663021509534" clover="3.2.0">
-  <project timestamp="1663021509534" name="All files">
+<coverage generated="1663021740457" clover="3.2.0">
+  <project timestamp="1663021740457" name="All files">
     <metrics statements="155" coveredstatements="149" conditionals="16" coveredconditionals="16" methods="18" coveredmethods="16" elements="189" coveredelements="181" complexity="0" loc="155" ncloc="155" packages="1" files="4" classes="4"/>
     <file name="employee.js" path="/Users/zacharyfeltman/Desktop/team-profile-generator/team-information-generator/lib/employee.js">
       <metrics statements="32" coveredstatements="26" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="4"/>
